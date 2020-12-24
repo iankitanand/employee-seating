@@ -1,0 +1,26 @@
+[
+    {
+        "id":"EMP-100001",
+        "name": "Shilpy Sharma",
+        "designation": "Sr Developer",
+        "team" : "Mobile front end",
+        "Current_project": " Mobile App",
+        "seatIdentifier": "SEAT-1000001"
+    },
+    {
+        "id":"EMP-100003",
+        "name": "Rakesh Verma",
+        "designation": "Jr Developer",
+        "team" : "Mobile front end",
+        "Current_project": " Mobile App",
+        "seatIdentifier": "SEAT-1000003"
+    },
+    {
+        "id":"EMP-100004",
+        "name": "Raju Rastogi",
+        "designation": "Jr Developer",
+        "team" : "Desktop front end",
+        "Current_project": "WebApp",
+        "seatIdentifier": "SEAT-1000005"
+    }
+]
